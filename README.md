@@ -13,9 +13,4 @@ Layout is built using HTML & CSS.
 The user can enter any news article in text box and click predict button.
 The user can then decide to test another article.
 
-#### Project Developers-
-1.Shejam 
-2.Ravi Gowrish
-3.Swapnil Lakir
-4.Shourya Jyoti
-5.Avinash
+
